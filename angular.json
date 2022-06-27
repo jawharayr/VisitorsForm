@@ -23,7 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "./node_modules/material-design-icons/iconfont/material-icons.css","./node_modules/materialize-css/dist/css/materialize.min.css","src/styles.css"
             ],
             "scripts": []
           },
@@ -97,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "b4adc0fc-125c-4432-a04b-47d3c84929b3"
   }
 }

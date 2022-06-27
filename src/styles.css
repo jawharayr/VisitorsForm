@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+
+html{
+    background-color: transparent linear-gradient(180deg, #097E86 0%, #007087 32%, #0E5778 66%, #004464 100%) 0% 0% no-repeat padding-box; 
+}
